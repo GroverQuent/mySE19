@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main()
-{
+{//
   int i=0; int num=0; int count; int Sum=0; //initilize variables
   float average;
   printf(" Please enter your value of your first numner :\n");//prompt for user input
